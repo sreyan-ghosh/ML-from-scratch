@@ -1,2 +1,13 @@
 # ML-from-scratch
-Basic ML and DL Alogorithms from scratch
+
+ML and DL Alogorithms
+
+Contains from scratch:
+
+-> Logistic Regression
+
+-> Support Vector Machine
+
+-> A sigmoid neuron trained on both self generated and a dataset.
+
+-> Multiple classes of Feed Forward Neural Networks.
