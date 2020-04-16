@@ -15,3 +15,5 @@ Contains from scratch:
 -> A vectorized backprop utilising FFNN.
 
 -> A vectorized FFNN working with algorithms like vanilla Gradient Descent, Momentum Based Gradient Descent, Nesterov Accelerated Gradient Descent, AdaGrad, RMSProp and Adam.
+
+-> A FFNN built using PyTorch functions slowly increasing the abstraction with multiple classes.
